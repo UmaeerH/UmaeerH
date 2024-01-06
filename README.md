@@ -1,5 +1,6 @@
 ## Welcome to my profile!
-I am a University student who is currently studying Computer Science.
+I am a full-time University student who is currently studying Computer Science. <br>
+I am based in the UK and have multiple years of private tutoring experience.
 
 I am working towards becoming a full-stack developer, and have many interests outside of coding. <br>
 I am open to helping out on any Open Source projects
