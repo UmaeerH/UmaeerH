@@ -1,11 +1,14 @@
 ## Welcome to my profile!
-I am a full-time University student who is currently studying Computer Science. <br>
+I am a full-time University student who is currently studying a BSc in Computer Science. <br>
 
-I am working towards becoming a full-stack developer, and have many interests outside of coding. <br>
-I am open to helping out on any Open Source projects <br>
-## Currently working on...
-- CCNAv7 (1/3) Certification | Cisco
-- IT Fundemantals | Cisco
+Working towards becoming a full-stack developer, or a systems operator <br>
+Many interests outside of coding, such as mathematics, statistics, physics, and many other fields including and outside of science <br>
+Some experience in Arduino C++, Game development, troubleshooting, Networking and Operating Systems <br>
+Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
+## 🔭 Currently working on...
+- University Course
+- CCNAv7 Certification | Cisco
+- Misc personal projects
 
 
 ---
@@ -19,7 +22,8 @@ I am open to helping out on any Open Source projects <br>
 <br> -->
 ---
 ## 📜 Additional Info
-<img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">
+<img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">    <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height=200px alt="IT Essentials, Issued by Cisco">
+
 
 <!--
 **UmaeerH/UmaeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
