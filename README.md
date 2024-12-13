@@ -22,9 +22,11 @@ Big supportor of open-source projects, and I am open to helping out on any Open 
 <br> -->
 ---
 ## 📜 Additional Info
-<img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">    <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8bc428c31ce9/ITE.png" height=200px alt="IT Essentials, Issued by Cisco">
+<p float="left">
+<img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">
+<img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height=200px alt="IT Essentials, Issued by Cisco">
 <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height=200px alt="CCNA: Introduction to Networks, Issued by Cisco">
-
+</p>
 
 <!--
 **UmaeerH/UmaeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
