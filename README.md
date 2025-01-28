@@ -7,14 +7,22 @@ Some experience in Arduino C++, Game development, troubleshooting, Networking an
 Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
 ## 🔭 Currently working on...
 - University Course
-- CCNAv7 Certification | Cisco
+- CCNP Security | Cisco 
 - Misc personal projects
 
 
 ---
 ## 🧰 Current Competencies 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40px alt="HTML5 icon"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=40px alt="CSS3 icon"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=40px alt="Python icon">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height=40px alt="Java icon">
 <br>
+
+
+
+## 🎓 Experience in 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=30px alt="Visual Studio Code"> <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" height=30px alt="Wix"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=30px alt="Bootstrap"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height=30px alt="Windows OS"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height=30px alt="Linux OS"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height=30px alt="Arch Linux"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height=30px alt="mySQL"> 
+
+
 <!--
 ---
 ## 🔍 Find me on
