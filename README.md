@@ -1,15 +1,19 @@
 ## Welcome to my profile!
-I am a full-time University student who is currently studying a BSc in Computer Science. <br>
+I am a full-time University student who is currently studying a Bachelor's in Computer Science. <br>
 
-Working towards becoming a full-stack developer, or a systems operator <br>
+Working towards becoming a full-stack developer, or a technology consultant <br>
 Many interests outside of coding, such as mathematics, statistics, physics, and many other fields including and outside of science <br>
 Some experience in Arduino C++, Game development, troubleshooting, Networking and Operating Systems <br>
 Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
 ## 🔭 Currently working on...
-- University Course
-- CCNP Security | Cisco 
+- Bachelor's Degree in Computer Science
+- CCNP Security | Cisco / Cybersecurity
+- Studying Declarative Programming
 - Misc personal projects
 
+## 🧪 Most recent projects:
+- Web application and database utilising JavaScript, PHP, mySQL and Bootstrap CSS (currently private)
+- Flight Booking System created in Java (currently private)
 
 ---
 ## 🧰 Current Competencies 
@@ -29,7 +33,7 @@ Big supportor of open-source projects, and I am open to helping out on any Open 
 <a href="https://www.linkedin.com/in/umaeerh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=40px alt="Linked In"></a>
 <br> -->
 ---
-## 📜 Additional Info
+## 📜 Additional Infomation and Certificates
 <p float="left">
 <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">
 <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height=200px alt="IT Essentials, Issued by Cisco">
