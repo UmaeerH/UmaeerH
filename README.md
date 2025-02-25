@@ -7,7 +7,7 @@ Some experience in Arduino C++, Game development, troubleshooting, Networking an
 Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
 ## 🔭 Currently working on...
 - Bachelor's Degree in Computer Science
-- CCNP Security | Cisco / Cybersecurity
+- Cybersecurity Essentials | Cisco
 - Studying Declarative Programming
 - Misc personal projects
 
