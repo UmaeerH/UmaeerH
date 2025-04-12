@@ -7,13 +7,13 @@ Some experience in Arduino C++, Game development, troubleshooting, Networking an
 Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
 ## 🔭 Currently working on...
 - Bachelor's Degree in Computer Science
-- Cybersecurity Essentials | Cisco
+- Year-long internship/placement in software/firmware development
 - Studying Declarative Programming
 - Misc personal projects
 
 ## 🧪 Most recent projects:
-- Web application and database utilising JavaScript, PHP, mySQL and Bootstrap CSS (currently private)
-- Flight Booking System created in Java (currently private)
+- Web application and database utilising JavaScript, PHP, mySQL and Bootstrap CSS (Repo available for view)
+- Flight Booking System created in Java (Repo available for view)
 
 ---
 ## 🧰 Current Competencies 
@@ -38,6 +38,7 @@ Big supportor of open-source projects, and I am open to helping out on any Open 
 <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" height=200px alt="IBM Enterprise Design Thinking Practitioner">
 <img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height=200px alt="IT Essentials, Issued by Cisco">
 <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height=200px alt="CCNA: Introduction to Networks, Issued by Cisco">
+<img src="https://images.credly.com/size/340x340/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" height="200px" alt="Cisco Certified Support Technician Cybersecurity">
 </p>
 
 <!--
