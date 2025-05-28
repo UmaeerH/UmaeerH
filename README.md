@@ -2,16 +2,16 @@
 I am a full-time University student who is currently studying a Bachelor's in Computer Science. <br>
 
 Working towards becoming a full-stack developer, or a technology consultant <br>
-Many interests outside of coding, such as mathematics, statistics, physics, and many other fields including and outside of science <br>
-Some experience in Arduino C++, Game development, troubleshooting, Networking and Operating Systems <br>
-Big supportor of open-source projects, and I am open to helping out on any Open Source projects <br>
+Beyond coding, I am passionate about subjects like mathematics, statistics, and physics, as well as exploring an array of scientific and humanities disciplines <br>
+Experience in Arduino C++, Game development, Troubleshooting (hardware and software), Networking and Operating Systems <br>
+I’m a strong supporter of open-source projects and I am always open to contribute. <br>
 ## 🔭 Currently working on...
-- Bachelor's Degree in Computer Science
+- Bachelor's Degree in Computer Science (Hons)
 - Year-long internship/placement in software/firmware development
-- Studying Declarative Programming
 - Misc personal projects
 
 ## 🧪 Most recent projects:
+- A CLI Text Adventure Game created in C++ 
 - Web application and database utilising JavaScript, PHP, mySQL and Bootstrap CSS (Repo available for view)
 - Flight Booking System created in Java (Repo available for view)
 
@@ -22,7 +22,6 @@ Big supportor of open-source projects, and I am open to helping out on any Open 
 <br>
 
 
-
 ## 🎓 Experience in 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=30px alt="Visual Studio Code"> <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" height=30px alt="Wix"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height=30px alt="Bootstrap"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height=30px alt="Windows OS"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height=30px alt="Linux OS"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height=30px alt="Arch Linux"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height=30px alt="mySQL"> 
 
@@ -30,8 +29,9 @@ Big supportor of open-source projects, and I am open to helping out on any Open 
 <!--
 ---
 ## 🔍 Find me on
-<a href="https://www.linkedin.com/in/umaeerh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=40px alt="Linked In"></a>
-<br> -->
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=40px alt="Linked In"></a>
+<br> 
+-->
 ---
 ## 📜 Additional Infomation and Certificates
 <p float="left">
